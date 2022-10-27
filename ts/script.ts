@@ -57,7 +57,7 @@ promise.then((ecommerce:any) => {
         //     });
          }
     
-})
+)
 
 
 
